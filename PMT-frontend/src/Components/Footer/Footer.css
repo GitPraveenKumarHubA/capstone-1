@@ -1,0 +1,9 @@
+footer.sticky-footer {
+  padding: 2rem 0;
+  flex-shrink: 0;
+}
+
+footer.sticky-footer .copyright {
+  font-size: 0.8rem;
+  line-height: 1;
+}
